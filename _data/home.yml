@@ -42,7 +42,7 @@ project_entries:
 
   - title: Inverse Kinematics with FABRIK
     url: inverse-kinematics-with-fabrik
-    desc: Solution to the inverse kinematics problem useing the FABRIK method
+    desc: Solution to the inverse kinematics problem using the FABRIK method
 
 old_project_entries:
   - title: Soopr
