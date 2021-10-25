@@ -41,7 +41,7 @@ project_entries:
     highlight: WIP
 
   - title: Inverse Kinematics with FABRIK
-    url: inverse-kinematics-with-FABRIK
+    url: inverse-kinematics-with-fabrik
     desc: Solution to the inverse kinematics problem useing the FABRIK method
 
 old_project_entries:
