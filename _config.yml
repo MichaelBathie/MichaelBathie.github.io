@@ -8,6 +8,8 @@ permalink: /:slug.html
 
 favicon: "./logo.png" # relative path to site's favicon
 
+gems: jekyll-seo-tag
+
 twitter:
     username: mjbathie # update or delete this
     card: summary_large_image
