@@ -16,6 +16,11 @@ layout: default
 
 {{ content }}
 
+{% if site.theme_config.show_contact == true %}
+  <h2 id="contact">{{ site.theme_config.home.title_contact }}</h2>
+  {% include vertical_list.html collection=site.data.home.contact_entry %}
+{% endif %}
+
 {% if site.theme_config.show_resume == true %}
   <h2 id="resume">{{ site.theme_config.home.title_resume }}</h2>
   {% include resume.html collection=site.data.home.resume_entry %}
