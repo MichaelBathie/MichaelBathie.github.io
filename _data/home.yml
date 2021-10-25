@@ -1,28 +1,34 @@
 navbar_entries:
   - title: home
-    url: top 
+    url: "#top" 
 
   - title: resume 
-    url: top
+    url: "#resume"
 
   - title: projects
-    url: top
+    url: "#portfolio"
+
+resume_entry:
+  - title: link for my resume
+    url: resume
+
 project_entries:
   - title: SyncStream
-    url: overview-post
+    url: syncstream
     desc: Share and discover music with people near you
 
   - title: Steam Data Mining
-    url: overview-post
+    url: steam-data-mining
     desc: Discover meaningful patterns in game genres/tags and steam users
+    highlight: WIP
 
   - title: Caulking Website
-    url: overview-post
+    url: caulking-website
     desc: Website portfolio for client
     highlight: WIP
 
   - title: Inverse Kinematics with FABRIK
-    url: overview-post
+    url: inverse-kinematics-with-FABRIK
     desc: Solution to the inverse kinematics problem useing the FABRIK method
 
 old_project_entries:

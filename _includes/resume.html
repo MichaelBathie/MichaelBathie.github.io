@@ -1,0 +1,5 @@
+<div class="resume-template">
+    {% for item in include.collection %}
+        <p>Follow this <a href="{{item.url}}">{{item.title}}</a></p>
+    {% endfor %}
+</div>
