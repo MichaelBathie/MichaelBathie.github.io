@@ -30,7 +30,7 @@ twitter_username: mjbathie
 github_username:  MichaelBathie
 
 # Build settings
-theme: moonwalk
+remote_theme: abhinavs/moonwalk
 plugins:
   - jekyll-feed
 
